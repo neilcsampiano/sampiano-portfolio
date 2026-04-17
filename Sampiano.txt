@@ -1,8 +1,0 @@
-Sampiano/
-│── db.js
-│── server.js
-│── routes/
-│     └── studentRoutes.js
-│── controllers/
-│     └── studentController.js
-│── package.json
